@@ -1,0 +1,1894 @@
+
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+    <Path Stroke="#FF000000" StrokeThickness="1">
+      <Path.Data>
+        <GeometryGroup>
+          <EllipseGeometry Center="240,240" RadiusX="240" RadiusY="240"/>
+          <EllipseGeometry Center="240,240" RadiusX="2" RadiusY="2"/>
+          <EllipseGeometry Center="0,240" RadiusX="2" RadiusY="2"/>
+          <EllipseGeometry Center="240,0" RadiusX="2" RadiusY="2"/>
+          <EllipseGeometry Center="480,240" RadiusX="2" RadiusY="2"/>
+          <EllipseGeometry Center="240,480" RadiusX="2" RadiusY="2"/>
+          <PathGeometry>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,240">
+              <LineSegment Point="480,240"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="26.834,328.855">
+              <ArcSegment Point="9.411,240" Size="235.294,235.294" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="9.411,240">
+              <ArcSegment Point="26.834,151.144" Size="235.294,235.294" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="34.921,325.592">
+              <ArcSegment Point="18.461,240" Size="230.769,230.769" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="18.461,240">
+              <ArcSegment Point="34.921,154.407" Size="230.769,230.769" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="42.736,322.502">
+              <ArcSegment Point="27.169,240" Size="226.415,226.415" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="27.169,240">
+              <ArcSegment Point="42.736,157.497" Size="226.415,226.415" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="50.291,319.575">
+              <ArcSegment Point="35.555,240" Size="222.222,222.222" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="35.555,240">
+              <ArcSegment Point="50.291,160.424" Size="222.222,222.222" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="57.599,316.8">
+              <ArcSegment Point="43.636,240" Size="218.181,218.181" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="43.636,240">
+              <ArcSegment Point="57.599,163.2" Size="218.181,218.181" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="64.672,314.165">
+              <ArcSegment Point="51.428,240" Size="214.285,214.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="51.428,240">
+              <ArcSegment Point="64.672,165.834" Size="214.285,214.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="71.519,311.663">
+              <ArcSegment Point="58.947,240" Size="210.526,210.526" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="58.947,240">
+              <ArcSegment Point="71.519,168.336" Size="210.526,210.526" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="78.152,309.284">
+              <ArcSegment Point="66.206,240" Size="206.896,206.896" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="66.206,240">
+              <ArcSegment Point="78.152,170.715" Size="206.896,206.896" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="84.579,307.020">
+              <ArcSegment Point="73.220,240" Size="203.389,203.389" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="73.220,240">
+              <ArcSegment Point="84.579,172.979" Size="203.389,203.389" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="90.810,304.864">
+              <ArcSegment Point="80,240" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="80,240">
+              <ArcSegment Point="90.810,175.135" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.191,249.596">
+              <ArcSegment Point="80.111,246.664" Size="12000,12000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="80.111,233.335">
+              <ArcSegment Point="0.191,230.403" Size="12000,12000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.766,259.169">
+              <ArcSegment Point="80.443,253.318" Size="6000,6000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="80.443,226.681">
+              <ArcSegment Point="0.766,220.830" Size="6000,6000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="1.721,268.696">
+              <ArcSegment Point="80.997,259.950" Size="4000,4000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="80.997,220.049">
+              <ArcSegment Point="1.721,211.303" Size="4000,4000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="3.052,278.155">
+              <ArcSegment Point="81.769,266.548" Size="3000,3000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="81.769,213.451">
+              <ArcSegment Point="3.052,201.844" Size="3000,3000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="4.752,287.524">
+              <ArcSegment Point="82.758,273.103" Size="2400,2400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="82.758,206.896">
+              <ArcSegment Point="4.752,192.475" Size="2400,2400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="6.813,296.782">
+              <ArcSegment Point="83.960,279.603" Size="2000,2000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="83.960,200.396">
+              <ArcSegment Point="6.813,183.217" Size="2000,2000" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="9.227,305.908">
+              <ArcSegment Point="85.371,286.040" Size="1714.285,1714.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="85.371,193.959">
+              <ArcSegment Point="9.227,174.091" Size="1714.285,1714.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="11.981,314.882">
+              <ArcSegment Point="86.986,292.401" Size="1500,1500" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="86.986,187.598">
+              <ArcSegment Point="11.981,165.117" Size="1500,1500" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="15.063,323.688">
+              <ArcSegment Point="88.801,298.679" Size="1333.333,1333.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="88.801,181.320">
+              <ArcSegment Point="15.063,156.311" Size="1333.333,1333.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="18.461,332.307">
+              <ArcSegment Point="90.810,304.864" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="90.810,175.135">
+              <ArcSegment Point="18.461,147.692" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="105.585,299.906">
+              <ArcSegment Point="96,240" Size="192,192" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="96,240">
+              <ArcSegment Point="105.585,180.093" Size="192,192" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="119.306,295.491">
+              <ArcSegment Point="110.769,240" Size="184.615,184.615" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="110.769,240">
+              <ArcSegment Point="119.306,184.508" Size="184.615,184.615" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="132.080,291.543">
+              <ArcSegment Point="124.444,240" Size="177.777,177.777" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="124.444,240">
+              <ArcSegment Point="132.080,188.456" Size="177.777,177.777" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="144,288">
+              <ArcSegment Point="137.142,240" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="137.142,240">
+              <ArcSegment Point="144,192" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="155.145,284.807">
+              <ArcSegment Point="148.965,240" Size="165.517,165.517" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="148.965,240">
+              <ArcSegment Point="155.145,195.192" Size="165.517,165.517" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="165.589,281.921">
+              <ArcSegment Point="160,240" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="160,240">
+              <ArcSegment Point="165.589,198.078" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="80.693,256.637">
+              <ArcSegment Point="160.355,250.654" Size="4800,4800" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="160.355,229.345">
+              <ArcSegment Point="80.693,223.362" Size="4800,4800" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="82.758,273.103">
+              <ArcSegment Point="161.415,261.238" Size="2400,2400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="161.415,218.761">
+              <ArcSegment Point="82.758,206.896" Size="2400,2400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="86.153,289.230">
+              <ArcSegment Point="163.168,271.683" Size="1600,1600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="163.168,208.316">
+              <ArcSegment Point="86.153,190.769" Size="1600,1600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="90.810,304.864">
+              <ArcSegment Point="165.589,281.921" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="165.589,198.078">
+              <ArcSegment Point="90.810,175.135" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="184.615,276.923">
+              <ArcSegment Point="180,240" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="180,240">
+              <ArcSegment Point="184.615,203.076" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="201.501,272.764">
+              <ArcSegment Point="197.647,240" Size="141.176,141.176" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="197.647,240">
+              <ArcSegment Point="201.501,207.235" Size="141.176,141.176" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="216.585,269.268">
+              <ArcSegment Point="213.333,240" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="213.333,240">
+              <ArcSegment Point="216.585,210.731" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="230.136,266.301">
+              <ArcSegment Point="227.368,240" Size="126.315,126.315" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="227.368,240">
+              <ArcSegment Point="230.136,213.698" Size="126.315,126.315" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="242.376,263.762">
+              <ArcSegment Point="240,240" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,240">
+              <ArcSegment Point="242.376,216.237" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="161.415,261.238">
+              <ArcSegment Point="240.598,251.970" Size="2400,2400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="240.598,228.029">
+              <ArcSegment Point="161.415,218.761" Size="2400,2400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="165.589,281.921">
+              <ArcSegment Point="242.376,263.762" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="242.376,216.237">
+              <ArcSegment Point="165.589,198.078" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="263.606,259.672">
+              <ArcSegment Point="261.818,240" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="261.818,240">
+              <ArcSegment Point="263.606,220.327" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="281.379,256.551">
+              <ArcSegment Point="280,240" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="280,240">
+              <ArcSegment Point="281.379,223.448" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="296.470,254.117">
+              <ArcSegment Point="295.384,240" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="295.384,240">
+              <ArcSegment Point="296.470,225.882" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="309.441,252.182">
+              <ArcSegment Point="308.571,240" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="308.571,240">
+              <ArcSegment Point="309.441,227.817" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="320.707,250.619">
+              <ArcSegment Point="320,240" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="320,240">
+              <ArcSegment Point="320.707,229.380" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="242.376,263.762">
+              <ArcSegment Point="320.707,250.619" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="320.707,229.380">
+              <ArcSegment Point="242.376,216.237" Size="1200,1200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="343.303,247.811">
+              <ArcSegment Point="342.857,240" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="342.857,240">
+              <ArcSegment Point="343.303,232.188" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360.299,245.985">
+              <ArcSegment Point="360,240" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,240">
+              <ArcSegment Point="360.299,234.014" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="373.543,244.731">
+              <ArcSegment Point="373.333,240" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="373.333,240">
+              <ArcSegment Point="373.543,235.268" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384.153,243.833">
+              <ArcSegment Point="384,240" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384,240">
+              <ArcSegment Point="384.153,236.166" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="392.842,243.169">
+              <ArcSegment Point="392.727,240" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="392.727,240">
+              <ArcSegment Point="392.842,236.830" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.088,242.663">
+              <ArcSegment Point="400,240" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400,240">
+              <ArcSegment Point="400.088,237.336" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="411.484,241.957">
+              <ArcSegment Point="411.428,240" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="411.428,240">
+              <ArcSegment Point="411.484,238.042" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.037,241.499">
+              <ArcSegment Point="420,240" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420,240">
+              <ArcSegment Point="420.037,238.500" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.692,241.184">
+              <ArcSegment Point="426.666,240" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.666,240">
+              <ArcSegment Point="426.692,238.815" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.019,240.959">
+              <ArcSegment Point="432,240" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432,240">
+              <ArcSegment Point="432.019,239.040" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.378,240.793">
+              <ArcSegment Point="436.363,240" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.363,240">
+              <ArcSegment Point="436.378,239.206" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.085,240.567">
+              <ArcSegment Point="443.076,240" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.076,240">
+              <ArcSegment Point="443.085,239.432" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.005,240.426">
+              <ArcSegment Point="448,240" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448,240">
+              <ArcSegment Point="448.005,239.573" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.768,240.332">
+              <ArcSegment Point="451.764,240" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.764,240">
+              <ArcSegment Point="451.768,239.667" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.739,240.265">
+              <ArcSegment Point="454.736,240" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.736,240">
+              <ArcSegment Point="454.739,239.734" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.144,240.217">
+              <ArcSegment Point="457.142,240" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.142,240">
+              <ArcSegment Point="457.144,239.782" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.539,240.142">
+              <ArcSegment Point="461.538,240" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.538,240">
+              <ArcSegment Point="461.539,239.857" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.516,240.099">
+              <ArcSegment Point="464.516,240" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.516,240">
+              <ArcSegment Point="464.516,239.900" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.667,240.074">
+              <ArcSegment Point="466.666,240" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.666,240">
+              <ArcSegment Point="466.667,239.925" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.292,240.057">
+              <ArcSegment Point="468.292,240" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.292,240">
+              <ArcSegment Point="468.292,239.942" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.565,240.045">
+              <ArcSegment Point="469.565,240" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.565,240">
+              <ArcSegment Point="469.565,239.954" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.588,240.036">
+              <ArcSegment Point="470.588,240" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.588,240">
+              <ArcSegment Point="470.588,239.963" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="107.356,417.449">
+              <ArcSegment Point="38.862,324.026" Size="228.571,228.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="38.862,155.973">
+              <ArcSegment Point="107.356,62.550" Size="228.571,228.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="118.356,404.383">
+              <ArcSegment Point="57.599,316.8" Size="218.181,218.181" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="57.599,163.2">
+              <ArcSegment Point="118.356,75.616" Size="218.181,218.181" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="128.966,392.623">
+              <ArcSegment Point="74.862,310.458" Size="208.695,208.695" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="74.862,169.541">
+              <ArcSegment Point="128.966,87.376" Size="208.695,208.695" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="139.171,382.011">
+              <ArcSegment Point="90.810,304.864" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="90.810,175.135">
+              <ArcSegment Point="139.171,97.988" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="148.965,372.413">
+              <ArcSegment Point="105.585,299.906" Size="192,192" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="105.585,180.093">
+              <ArcSegment Point="148.965,107.586" Size="192,192" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="158.350,363.711">
+              <ArcSegment Point="119.306,295.491" Size="184.615,184.615" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="119.306,184.508">
+              <ArcSegment Point="158.350,116.288" Size="184.615,184.615" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="167.334,355.802">
+              <ArcSegment Point="132.080,291.543" Size="177.777,177.777" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="132.080,188.456">
+              <ArcSegment Point="167.334,124.197" Size="177.777,177.777" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="175.927,348.597">
+              <ArcSegment Point="144,288" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="144,192">
+              <ArcSegment Point="175.927,131.402" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="184.144,342.019">
+              <ArcSegment Point="155.145,284.807" Size="165.517,165.517" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="155.145,195.192">
+              <ArcSegment Point="184.144,137.980" Size="165.517,165.517" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="192,336">
+              <ArcSegment Point="165.589,281.921" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="165.589,198.078">
+              <ArcSegment Point="192,144" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="28.235,352.941">
+              <ArcSegment Point="168.648,291.891" Size="960,960" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="168.648,188.108">
+              <ArcSegment Point="28.235,127.058" Size="960,960" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="39.633,372.110">
+              <ArcSegment Point="172.307,301.538" Size="800,800" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="172.307,178.461">
+              <ArcSegment Point="39.633,107.889" Size="800,800" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="52.383,389.665">
+              <ArcSegment Point="176.522,310.811" Size="685.714,685.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="176.522,169.188">
+              <ArcSegment Point="52.383,90.334" Size="685.714,685.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="66.206,405.517">
+              <ArcSegment Point="181.244,319.668" Size="600,600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="181.244,160.331">
+              <ArcSegment Point="66.206,74.482" Size="600,600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="80.831,419.625">
+              <ArcSegment Point="186.422,328.073" Size="533.333,533.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="186.422,151.926">
+              <ArcSegment Point="80.831,60.374" Size="533.333,533.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="96,432">
+              <ArcSegment Point="192,336" Size="480,480" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="192,144">
+              <ArcSegment Point="96,48" Size="480,480" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="206.690,325.409">
+              <ArcSegment Point="184.615,276.923" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="184.615,203.076">
+              <ArcSegment Point="206.690,154.590" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="220.127,316.433">
+              <ArcSegment Point="201.501,272.764" Size="141.176,141.176" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="201.501,207.235">
+              <ArcSegment Point="220.127,163.566" Size="141.176,141.176" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="232.435,308.767">
+              <ArcSegment Point="216.585,269.268" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="216.585,210.731">
+              <ArcSegment Point="232.435,171.232" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="243.730,302.176">
+              <ArcSegment Point="230.136,266.301" Size="126.315,126.315" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="230.136,213.698">
+              <ArcSegment Point="243.730,177.823" Size="126.315,126.315" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="254.117,296.470">
+              <ArcSegment Point="242.376,263.762" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="242.376,216.237">
+              <ArcSegment Point="254.117,183.529" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="172.307,301.538">
+              <ArcSegment Point="245.281,275.207" Size="800,800" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="245.281,204.792">
+              <ArcSegment Point="172.307,178.461" Size="800,800" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="181.244,319.668">
+              <ArcSegment Point="249.230,286.153" Size="600,600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="249.230,193.846">
+              <ArcSegment Point="181.244,160.331" Size="600,600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="192,336">
+              <ArcSegment Point="254.117,296.470" Size="480,480" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="254.117,183.529">
+              <ArcSegment Point="192,144" Size="480,480" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="272.534,287.151">
+              <ArcSegment Point="263.606,259.672" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="263.606,220.327">
+              <ArcSegment Point="272.534,192.848" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="288.319,279.933">
+              <ArcSegment Point="281.379,256.551" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="281.379,223.448">
+              <ArcSegment Point="288.319,200.066" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="301.968,274.236">
+              <ArcSegment Point="296.470,254.117" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="296.470,225.882">
+              <ArcSegment Point="301.968,205.763" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="313.868,269.666">
+              <ArcSegment Point="309.441,252.182" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="309.441,227.817">
+              <ArcSegment Point="313.868,210.333" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="324.324,265.945">
+              <ArcSegment Point="320.707,250.619" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="320.707,229.380">
+              <ArcSegment Point="324.324,214.054" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="249.230,286.153">
+              <ArcSegment Point="322.794,260.960" Size="600,600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="322.794,219.039">
+              <ArcSegment Point="249.230,193.846" Size="600,600" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="345.6,259.2">
+              <ArcSegment Point="343.303,247.811" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="343.303,232.188">
+              <ArcSegment Point="345.6,220.8" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="361.846,254.769">
+              <ArcSegment Point="360.299,245.985" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360.299,234.014">
+              <ArcSegment Point="361.846,225.230" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="374.634,251.707">
+              <ArcSegment Point="373.543,244.731" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="373.543,235.268">
+              <ArcSegment Point="374.634,228.292" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384.950,249.504">
+              <ArcSegment Point="384.153,243.833" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384.153,236.166">
+              <ArcSegment Point="384.950,230.495" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="393.442,247.868">
+              <ArcSegment Point="392.842,243.169" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="392.842,236.830">
+              <ArcSegment Point="393.442,232.131" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.551,246.620">
+              <ArcSegment Point="400.088,242.663" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.088,237.336">
+              <ArcSegment Point="400.551,233.379" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="324.324,265.945">
+              <ArcSegment Point="400.551,246.620" Size="480,480" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.551,233.379">
+              <ArcSegment Point="324.324,214.054" Size="480,480" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="411.776,244.873">
+              <ArcSegment Point="411.484,241.957" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="411.484,238.042">
+              <ArcSegment Point="411.776,235.126" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.233,243.735">
+              <ArcSegment Point="420.037,241.499" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.037,238.500">
+              <ArcSegment Point="420.233,236.264" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.830,242.953">
+              <ArcSegment Point="426.692,241.184" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.692,238.815">
+              <ArcSegment Point="426.830,237.046" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.119,242.394">
+              <ArcSegment Point="432.019,240.959" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.019,239.040">
+              <ArcSegment Point="432.119,237.605" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.453,241.979">
+              <ArcSegment Point="436.378,240.793" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.378,239.206">
+              <ArcSegment Point="436.453,238.020" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.131,241.418">
+              <ArcSegment Point="443.085,240.567" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.085,239.432">
+              <ArcSegment Point="443.131,238.581" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.035,241.065">
+              <ArcSegment Point="448.005,240.426" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.005,239.573">
+              <ArcSegment Point="448.035,238.934" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.789,240.829">
+              <ArcSegment Point="451.768,240.332" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.768,239.667">
+              <ArcSegment Point="451.789,239.170" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.754,240.664">
+              <ArcSegment Point="454.739,240.265" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.739,239.734">
+              <ArcSegment Point="454.754,239.335" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.155,240.543">
+              <ArcSegment Point="457.144,240.217" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.144,239.782">
+              <ArcSegment Point="457.155,239.456" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.545,240.354">
+              <ArcSegment Point="461.539,240.142" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.539,239.857">
+              <ArcSegment Point="461.545,239.645" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.520,240.249">
+              <ArcSegment Point="464.516,240.099" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.516,239.900">
+              <ArcSegment Point="464.520,239.750" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.669,240.185">
+              <ArcSegment Point="466.667,240.074" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.667,239.925">
+              <ArcSegment Point="466.669,239.814" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.294,240.142">
+              <ArcSegment Point="468.292,240.057" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.292,239.942">
+              <ArcSegment Point="468.294,239.857" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.566,240.113">
+              <ArcSegment Point="469.565,240.045" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.565,239.954">
+              <ArcSegment Point="469.566,239.886" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.589,240.092">
+              <ArcSegment Point="470.588,240.036" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.588,239.963">
+              <ArcSegment Point="470.589,239.907" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="241.085,457.194">
+              <ArcSegment Point="118.356,404.383" Size="218.181,218.181" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="118.356,75.616">
+              <ArcSegment Point="241.085,22.805" Size="218.181,218.181" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="243.934,436.721">
+              <ArcSegment Point="139.171,382.011" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="139.171,97.988">
+              <ArcSegment Point="243.934,43.278" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="248.029,418.438">
+              <ArcSegment Point="158.350,363.711" Size="184.615,184.615" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="158.350,116.288">
+              <ArcSegment Point="248.029,61.561" Size="184.615,184.615" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="252.972,402.162">
+              <ArcSegment Point="175.927,348.597" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="175.927,131.402">
+              <ArcSegment Point="252.972,77.837" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="258.461,387.692">
+              <ArcSegment Point="192,336" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="192,144">
+              <ArcSegment Point="258.461,92.307" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="264.269,374.831">
+              <ArcSegment Point="206.690,325.409" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="206.690,154.590">
+              <ArcSegment Point="264.269,105.168" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="270.231,363.393">
+              <ArcSegment Point="220.127,316.433" Size="141.176,141.176" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="220.127,163.566">
+              <ArcSegment Point="270.231,116.606" Size="141.176,141.176" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="276.226,353.207">
+              <ArcSegment Point="232.435,308.767" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="232.435,171.232">
+              <ArcSegment Point="276.226,126.792" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="282.169,344.121">
+              <ArcSegment Point="243.730,302.176" Size="126.315,126.315" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="243.730,177.823">
+              <ArcSegment Point="282.169,135.878" Size="126.315,126.315" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="288,336">
+              <ArcSegment Point="254.117,296.470" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="254.117,183.529">
+              <ArcSegment Point="288,144" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="127.058,451.764">
+              <ArcSegment Point="259.816,306.055" Size="400,400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="259.816,173.944">
+              <ArcSegment Point="127.058,28.235" Size="400,400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="157.852,465.503">
+              <ArcSegment Point="266.191,314.832" Size="342.857,342.857" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="266.191,165.167">
+              <ArcSegment Point="157.852,14.496" Size="342.857,342.857" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="187.317,474.146">
+              <ArcSegment Point="273.103,322.758" Size="300,300" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="273.103,157.241">
+              <ArcSegment Point="187.317,5.853" Size="300,300" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="214.806,478.674">
+              <ArcSegment Point="280.415,329.812" Size="266.666,266.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="280.415,150.187">
+              <ArcSegment Point="214.806,1.325" Size="266.666,266.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,480">
+              <ArcSegment Point="288,336" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="288,144">
+              <ArcSegment Point="240,0" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="299.178,322.191">
+              <ArcSegment Point="272.534,287.151" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="272.534,192.848">
+              <ArcSegment Point="299.178,157.808" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="309.585,311.005">
+              <ArcSegment Point="288.319,279.933" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="288.319,200.066">
+              <ArcSegment Point="309.585,168.994" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="319.175,301.855">
+              <ArcSegment Point="301.968,274.236" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="301.968,205.763">
+              <ArcSegment Point="319.175,178.144" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="327.963,294.298">
+              <ArcSegment Point="313.868,269.666" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="313.868,210.333">
+              <ArcSegment Point="327.963,185.701" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="336,288">
+              <ArcSegment Point="324.324,265.945" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="324.324,214.054">
+              <ArcSegment Point="336,192" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="259.816,306.055">
+              <ArcSegment Point="326.153,270.769" Size="400,400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="326.153,209.230">
+              <ArcSegment Point="259.816,173.944" Size="400,400" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="273.103,322.758">
+              <ArcSegment Point="330.622,279.834" Size="300,300" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="330.622,200.165">
+              <ArcSegment Point="273.103,157.241" Size="300,300" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="288,336">
+              <ArcSegment Point="336,288" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="336,192">
+              <ArcSegment Point="288,144" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="353.207,276.226">
+              <ArcSegment Point="345.6,259.2" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="345.6,220.8">
+              <ArcSegment Point="353.207,203.773" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="367.058,268.235">
+              <ArcSegment Point="361.846,254.769" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="361.846,225.230">
+              <ArcSegment Point="367.058,211.764" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="378.352,262.588">
+              <ArcSegment Point="374.634,251.707" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="374.634,228.292">
+              <ArcSegment Point="378.352,217.411" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="387.692,258.461">
+              <ArcSegment Point="384.950,249.504" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384.950,230.495">
+              <ArcSegment Point="387.692,221.538" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="395.52,255.36">
+              <ArcSegment Point="393.442,247.868" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="393.442,232.131">
+              <ArcSegment Point="395.52,224.64" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="402.162,252.972">
+              <ArcSegment Point="400.551,246.620" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.551,233.379">
+              <ArcSegment Point="402.162,227.027" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="336,288">
+              <ArcSegment Point="402.162,252.972" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="402.162,227.027">
+              <ArcSegment Point="336,192" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="412.8,249.6">
+              <ArcSegment Point="411.776,244.873" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="411.776,235.126">
+              <ArcSegment Point="412.8,230.4" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.923,247.384">
+              <ArcSegment Point="420.233,243.735" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.233,236.264">
+              <ArcSegment Point="420.923,232.615" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="427.317,245.853">
+              <ArcSegment Point="426.830,242.953" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.830,237.046">
+              <ArcSegment Point="427.317,234.146" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.475,244.752">
+              <ArcSegment Point="432.119,242.394" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.119,237.605">
+              <ArcSegment Point="432.475,235.247" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.721,243.934">
+              <ArcSegment Point="436.453,241.979" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.453,238.020">
+              <ArcSegment Point="436.721,236.065" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="402.162,252.972">
+              <ArcSegment Point="436.721,243.934" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.721,236.065">
+              <ArcSegment Point="402.162,227.027" Size="240,240" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.294,242.823">
+              <ArcSegment Point="443.131,241.418" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.131,238.581">
+              <ArcSegment Point="443.294,237.176" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.141,242.123">
+              <ArcSegment Point="448.035,241.065" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.035,238.934">
+              <ArcSegment Point="448.141,237.876" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.862,241.655">
+              <ArcSegment Point="451.789,240.829" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.789,239.170">
+              <ArcSegment Point="451.862,238.344" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.806,241.325">
+              <ArcSegment Point="454.754,240.664" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.754,239.335">
+              <ArcSegment Point="454.806,238.674" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.194,241.085">
+              <ArcSegment Point="457.155,240.543" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.155,239.456">
+              <ArcSegment Point="457.194,238.914" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.565,240.709">
+              <ArcSegment Point="461.545,240.354" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.545,239.645">
+              <ArcSegment Point="461.565,239.290" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.532,240.498">
+              <ArcSegment Point="464.520,240.249" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.520,239.750">
+              <ArcSegment Point="464.532,239.501" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.676,240.370">
+              <ArcSegment Point="466.669,240.185" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.669,239.814">
+              <ArcSegment Point="466.676,239.629" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.299,240.285">
+              <ArcSegment Point="468.294,240.142" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.294,239.857">
+              <ArcSegment Point="468.299,239.714" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.570,240.226">
+              <ArcSegment Point="469.566,240.113" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.566,239.886">
+              <ArcSegment Point="469.570,239.773" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.591,240.184">
+              <ArcSegment Point="470.589,240.092" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.589,239.907">
+              <ArcSegment Point="470.591,239.815" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="374.117,416.470">
+              <ArcSegment Point="243.934,436.721" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="243.934,43.278">
+              <ArcSegment Point="374.117,63.529" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="367.248,401.073">
+              <ArcSegment Point="252.972,402.162" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="252.972,77.837">
+              <ArcSegment Point="367.248,78.926" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="362.926,386.341">
+              <ArcSegment Point="264.269,374.831" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="264.269,105.168">
+              <ArcSegment Point="362.926,93.658" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360.662,372.596">
+              <ArcSegment Point="276.226,353.207" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="276.226,126.792">
+              <ArcSegment Point="360.662,107.403" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,360">
+              <ArcSegment Point="288,336" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="288,144">
+              <ArcSegment Point="360,120" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360.542,348.597">
+              <ArcSegment Point="299.178,322.191" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="299.178,157.808">
+              <ArcSegment Point="360.542,131.402" Size="109.090,109.090" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="361.967,338.360">
+              <ArcSegment Point="309.585,311.005" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="309.585,168.994">
+              <ArcSegment Point="361.967,141.639" Size="100,100" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="364.014,329.219">
+              <ArcSegment Point="319.175,301.855" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="319.175,178.144">
+              <ArcSegment Point="364.014,150.780" Size="92.307,92.307" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="366.486,321.081">
+              <ArcSegment Point="327.963,294.298" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="327.963,185.701">
+              <ArcSegment Point="366.486,158.918" Size="85.714,85.714" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="369.230,313.846">
+              <ArcSegment Point="336,288" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="336,192">
+              <ArcSegment Point="369.230,166.153" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="283.278,476.065">
+              <ArcSegment Point="342.068,295.172" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="342.068,184.827">
+              <ArcSegment Point="283.278,3.934" Size="200,200" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="317.837,467.027">
+              <ArcSegment Point="348.613,301.313" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="348.613,178.686">
+              <ArcSegment Point="317.837,12.972" Size="171.428,171.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="345.168,455.730">
+              <ArcSegment Point="355.432,306.435" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="355.432,173.564">
+              <ArcSegment Point="345.168,24.269" Size="150,150" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="366.792,443.773">
+              <ArcSegment Point="362.352,310.588" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="362.352,169.411">
+              <ArcSegment Point="366.792,36.226" Size="133.333,133.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384,432">
+              <ArcSegment Point="369.230,313.846" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="369.230,166.153">
+              <ArcSegment Point="384,48" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="376.615,299.076">
+              <ArcSegment Point="353.207,276.226" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="353.207,203.773">
+              <ArcSegment Point="376.615,180.923" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384,288">
+              <ArcSegment Point="367.058,268.235" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="367.058,211.764">
+              <ArcSegment Point="384,192" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="390.927,279.587">
+              <ArcSegment Point="378.352,262.588" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="378.352,217.411">
+              <ArcSegment Point="390.927,200.412" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="397.241,273.103">
+              <ArcSegment Point="387.692,258.461" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="387.692,221.538">
+              <ArcSegment Point="397.241,206.896" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="402.919,268.029">
+              <ArcSegment Point="395.52,255.36" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="395.52,224.64">
+              <ArcSegment Point="402.919,211.970" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="408,264">
+              <ArcSegment Point="402.162,252.972" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="402.162,227.027">
+              <ArcSegment Point="408,216" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="352,304">
+              <ArcSegment Point="404.705,258.823" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="404.705,221.176">
+              <ArcSegment Point="352,176" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="369.230,313.846">
+              <ArcSegment Point="408,264" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="408,216">
+              <ArcSegment Point="369.230,166.153" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="416.603,258.113">
+              <ArcSegment Point="412.8,249.6" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="412.8,230.4">
+              <ArcSegment Point="416.603,221.886" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="423.529,254.117">
+              <ArcSegment Point="420.923,247.384" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.923,232.615">
+              <ArcSegment Point="423.529,225.882" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="429.176,251.294">
+              <ArcSegment Point="427.317,245.853" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="427.317,234.146">
+              <ArcSegment Point="429.176,228.705" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="433.846,249.230">
+              <ArcSegment Point="432.475,244.752" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.475,235.247">
+              <ArcSegment Point="433.846,230.769" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="437.76,247.68">
+              <ArcSegment Point="436.721,243.934" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.721,236.065">
+              <ArcSegment Point="437.76,232.32" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="408,264">
+              <ArcSegment Point="437.76,247.68" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="437.76,232.32">
+              <ArcSegment Point="408,216" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.930,245.549">
+              <ArcSegment Point="443.294,242.823" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.294,237.176">
+              <ArcSegment Point="443.930,234.450" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.558,244.192">
+              <ArcSegment Point="448.141,242.123" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.141,237.876">
+              <ArcSegment Point="448.558,235.807" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="452.150,243.276">
+              <ArcSegment Point="451.862,241.655" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.862,238.344">
+              <ArcSegment Point="452.150,236.723" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="455.013,242.630">
+              <ArcSegment Point="454.806,241.325" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.806,238.674">
+              <ArcSegment Point="455.013,237.369" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.348,242.157">
+              <ArcSegment Point="457.194,241.085" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.194,238.914">
+              <ArcSegment Point="457.348,237.842" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="437.76,247.68">
+              <ArcSegment Point="457.348,242.157" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.348,237.842">
+              <ArcSegment Point="437.76,232.32" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.647,241.411">
+              <ArcSegment Point="461.565,240.709" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.565,239.290">
+              <ArcSegment Point="461.647,238.588" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.580,240.994">
+              <ArcSegment Point="464.532,240.498" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.532,239.501">
+              <ArcSegment Point="464.580,239.005" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.707,240.738">
+              <ArcSegment Point="466.676,240.370" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.676,239.629">
+              <ArcSegment Point="466.707,239.261" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.320,240.569">
+              <ArcSegment Point="468.299,240.285" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.299,239.714">
+              <ArcSegment Point="468.320,239.430" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.584,240.452">
+              <ArcSegment Point="469.570,240.226" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.570,239.773">
+              <ArcSegment Point="469.584,239.547" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.602,240.368">
+              <ArcSegment Point="470.591,240.184" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.591,239.815">
+              <ArcSegment Point="470.602,239.631" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="453.577,328.073">
+              <ArcSegment Point="364.8,393.6" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="364.8,86.4">
+              <ArcSegment Point="453.577,151.926" Size="160,160" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="446.896,322.758">
+              <ArcSegment Point="360,360" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,120">
+              <ArcSegment Point="446.896,157.241" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.6,316.8">
+              <ArcSegment Point="362.926,333.658" Size="96,96" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="362.926,146.341">
+              <ArcSegment Point="441.6,163.2" Size="96,96" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="437.647,310.588">
+              <ArcSegment Point="369.230,313.846" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="369.230,166.153">
+              <ArcSegment Point="437.647,169.411" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="434.899,304.429">
+              <ArcSegment Point="376.615,299.076" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="376.615,180.923">
+              <ArcSegment Point="434.899,175.570" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="433.170,298.536">
+              <ArcSegment Point="384,288" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384,192">
+              <ArcSegment Point="433.170,181.463" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.265,293.038">
+              <ArcSegment Point="390.927,279.587" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="390.927,200.412">
+              <ArcSegment Point="432.265,186.961" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432,288">
+              <ArcSegment Point="397.241,273.103" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="397.241,206.896">
+              <ArcSegment Point="432,192" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.217,283.438">
+              <ArcSegment Point="402.919,268.029" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="402.919,211.970">
+              <ArcSegment Point="432.217,196.561" Size="43.636,43.636" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.786,279.344">
+              <ArcSegment Point="408,264" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="408,216">
+              <ArcSegment Point="432.786,200.655" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="413.793,405.517">
+              <ArcSegment Point="411.834,268.402" Size="96,96" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="411.834,211.597">
+              <ArcSegment Point="413.793,74.482" Size="96,96" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432,384">
+              <ArcSegment Point="416,272" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="416,208">
+              <ArcSegment Point="432,96" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.773,366.792">
+              <ArcSegment Point="420.310,274.818" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="420.310,205.181">
+              <ArcSegment Point="443.773,113.207" Size="68.571,68.571" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.764,352.941">
+              <ArcSegment Point="424.615,276.923" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="424.615,203.076">
+              <ArcSegment Point="451.764,127.058" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.411,341.647">
+              <ArcSegment Point="428.8,278.4" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="428.8,201.6">
+              <ArcSegment Point="457.411,138.352" Size="53.333,53.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.538,332.307">
+              <ArcSegment Point="432.786,279.344" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.786,200.655">
+              <ArcSegment Point="461.538,147.692" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="434.594,272.432">
+              <ArcSegment Point="416.603,258.113" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="416.603,221.886">
+              <ArcSegment Point="434.594,207.567" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.853,266.966">
+              <ArcSegment Point="423.529,254.117" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="423.529,225.882">
+              <ArcSegment Point="436.853,213.033" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="439.245,262.641">
+              <ArcSegment Point="429.176,251.294" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="429.176,228.705">
+              <ArcSegment Point="439.245,217.358" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.6,259.2">
+              <ArcSegment Point="433.846,249.230" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="433.846,230.769">
+              <ArcSegment Point="441.6,220.8" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.835,256.438">
+              <ArcSegment Point="437.76,247.68" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="437.76,232.32">
+              <ArcSegment Point="443.835,223.561" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="416,272">
+              <ArcSegment Point="439.384,251.076" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="439.384,228.923">
+              <ArcSegment Point="416,208" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="424.615,276.923">
+              <ArcSegment Point="441.459,254.014" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.459,225.985">
+              <ArcSegment Point="424.615,203.076" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.786,279.344">
+              <ArcSegment Point="443.835,256.438" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.835,223.561">
+              <ArcSegment Point="432.786,200.655" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="447.835,252.371">
+              <ArcSegment Point="443.930,245.549" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.930,234.450">
+              <ArcSegment Point="447.835,227.628" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.2,249.6">
+              <ArcSegment Point="448.558,244.192" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.558,235.807">
+              <ArcSegment Point="451.2,230.4" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.012,247.643">
+              <ArcSegment Point="452.150,243.276" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="452.150,236.723">
+              <ArcSegment Point="454.012,232.356" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.373,246.217">
+              <ArcSegment Point="455.013,242.630" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="455.013,237.369">
+              <ArcSegment Point="456.373,233.782" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="458.369,245.150">
+              <ArcSegment Point="457.348,242.157" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.348,237.842">
+              <ArcSegment Point="458.369,234.849" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.459,254.014">
+              <ArcSegment Point="457.943,244.201" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.943,235.798">
+              <ArcSegment Point="441.459,225.985" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="462.196,243.423">
+              <ArcSegment Point="461.647,241.411" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.647,238.588">
+              <ArcSegment Point="462.196,236.576" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.908,242.434">
+              <ArcSegment Point="464.580,240.994" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.580,239.005">
+              <ArcSegment Point="464.908,237.565" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.919,241.816">
+              <ArcSegment Point="466.707,240.738" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.707,239.261">
+              <ArcSegment Point="466.919,238.183" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.464,241.406">
+              <ArcSegment Point="468.320,240.569" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.320,239.430">
+              <ArcSegment Point="468.464,238.593" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.687,241.120">
+              <ArcSegment Point="469.584,240.452" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.584,239.547">
+              <ArcSegment Point="469.687,238.879" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.677,240.913">
+              <ArcSegment Point="470.602,240.368" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.602,239.631">
+              <ArcSegment Point="470.677,239.086" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="458.369,245.150">
+              <ArcSegment Point="470.677,240.913" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.677,239.086">
+              <ArcSegment Point="458.369,234.849" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.769,286.153">
+              <ArcSegment Point="446.896,322.758" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="446.896,157.241">
+              <ArcSegment Point="470.769,193.846" Size="120,120" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.788,284.036">
+              <ArcSegment Point="437.647,310.588" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="437.647,169.411">
+              <ArcSegment Point="466.788,195.963" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="463.448,281.379">
+              <ArcSegment Point="433.170,298.536" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="433.170,181.463">
+              <ArcSegment Point="463.448,198.620" Size="60,60" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.8,278.4">
+              <ArcSegment Point="432,288" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432,192">
+              <ArcSegment Point="460.8,201.6" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="458.823,275.294">
+              <ArcSegment Point="432.786,279.344" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="432.786,200.655">
+              <ArcSegment Point="458.823,204.705" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.449,272.214">
+              <ArcSegment Point="434.594,272.432" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="434.594,207.567">
+              <ArcSegment Point="457.449,207.785" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.585,269.268">
+              <ArcSegment Point="436.853,266.966" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.853,213.033">
+              <ArcSegment Point="456.585,210.731" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.132,266.519">
+              <ArcSegment Point="439.245,262.641" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="439.245,217.358">
+              <ArcSegment Point="456.132,213.480" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456,264">
+              <ArcSegment Point="441.6,259.2" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.6,220.8">
+              <ArcSegment Point="456,216" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.108,261.719">
+              <ArcSegment Point="443.835,256.438" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.835,223.561">
+              <ArcSegment Point="456.108,218.280" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="467.027,317.837">
+              <ArcSegment Point="446.369,258.343" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="446.369,221.656">
+              <ArcSegment Point="467.027,162.162" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.4,307.2">
+              <ArcSegment Point="448.941,259.764" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="448.941,220.235">
+              <ArcSegment Point="470.4,172.8" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="472.615,299.076">
+              <ArcSegment Point="451.459,260.756" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.459,219.243">
+              <ArcSegment Point="472.615,180.923" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="474.146,292.682">
+              <ArcSegment Point="453.861,261.386" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="453.861,218.613">
+              <ArcSegment Point="474.146,187.317" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.247,287.524">
+              <ArcSegment Point="456.108,261.719" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.108,218.280">
+              <ArcSegment Point="475.247,192.475" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.802,257.843">
+              <ArcSegment Point="447.835,252.371" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="447.835,227.628">
+              <ArcSegment Point="456.802,222.156" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.846,254.769">
+              <ArcSegment Point="451.2,249.6" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.2,230.4">
+              <ArcSegment Point="457.846,225.230" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="459.023,252.339">
+              <ArcSegment Point="454.012,247.643" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="454.012,232.356">
+              <ArcSegment Point="459.023,227.660" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.216,250.412">
+              <ArcSegment Point="456.373,246.217" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.373,233.782">
+              <ArcSegment Point="460.216,229.587" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.367,248.872">
+              <ArcSegment Point="458.369,245.150" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="458.369,234.849">
+              <ArcSegment Point="461.367,231.127" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="446.369,258.343">
+              <ArcSegment Point="458.867,246.037" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="458.867,233.962">
+              <ArcSegment Point="446.369,221.656" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.459,260.756">
+              <ArcSegment Point="460.039,247.603" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.039,232.396">
+              <ArcSegment Point="451.459,219.243" Size="30,30" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.108,261.719">
+              <ArcSegment Point="461.367,248.872" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.367,231.127">
+              <ArcSegment Point="456.108,218.280" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="463.917,246.185">
+              <ArcSegment Point="462.196,243.423" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="462.196,236.576">
+              <ArcSegment Point="463.917,233.814" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.975,244.524">
+              <ArcSegment Point="464.908,242.434" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.908,237.565">
+              <ArcSegment Point="465.975,235.475" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="467.621,243.438">
+              <ArcSegment Point="466.919,241.816" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.919,238.183">
+              <ArcSegment Point="467.621,236.561" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.950,242.695">
+              <ArcSegment Point="468.464,241.406" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.464,238.593">
+              <ArcSegment Point="468.950,237.304" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.036,242.166">
+              <ArcSegment Point="469.687,241.120" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.687,238.879">
+              <ArcSegment Point="470.036,237.833" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.936,241.777">
+              <ArcSegment Point="470.677,240.913" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.677,239.086">
+              <ArcSegment Point="470.936,238.222" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.367,248.872">
+              <ArcSegment Point="470.936,241.777" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.936,238.222">
+              <ArcSegment Point="461.367,231.127" Size="24,24" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.479,263.471">
+              <ArcSegment Point="466.788,284.036" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.788,195.963">
+              <ArcSegment Point="476.479,216.528" Size="80,80" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="474.352,262.588">
+              <ArcSegment Point="460.8,278.4" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.8,201.6">
+              <ArcSegment Point="474.352,217.411" Size="48,48" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="472.516,261.380">
+              <ArcSegment Point="457.449,272.214" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.449,207.785">
+              <ArcSegment Point="472.516,218.619" Size="34.285,34.285" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.018,259.958">
+              <ArcSegment Point="456.132,266.519" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.132,213.480">
+              <ArcSegment Point="471.018,220.041" Size="26.666,26.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.865,258.426">
+              <ArcSegment Point="456.108,261.719" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.108,218.280">
+              <ArcSegment Point="469.865,221.573" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.033,256.871">
+              <ArcSegment Point="456.802,257.843" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="456.802,222.156">
+              <ArcSegment Point="469.033,223.128" Size="18.461,18.461" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.48,255.36">
+              <ArcSegment Point="457.846,254.769" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.846,225.230">
+              <ArcSegment Point="468.48,224.64" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.156,253.933">
+              <ArcSegment Point="459.023,252.339" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="459.023,227.660">
+              <ArcSegment Point="468.156,226.066" Size="14.117,14.117" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.015,252.614">
+              <ArcSegment Point="460.216,250.412" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.216,229.587">
+              <ArcSegment Point="468.015,227.385" Size="12.631,12.631" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.014,251.414">
+              <ArcSegment Point="461.367,248.872" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="461.367,231.127">
+              <ArcSegment Point="468.014,228.585" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.689,279.724">
+              <ArcSegment Point="462.769,249.846" Size="20,20" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="462.769,230.153">
+              <ArcSegment Point="476.689,200.275" Size="20,20" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.563,274.111">
+              <ArcSegment Point="464.175,250.549" Size="17.142,17.142" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.175,229.450">
+              <ArcSegment Point="477.563,205.888" Size="17.142,17.142" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.132,269.883">
+              <ArcSegment Point="465.538,251.018" Size="15,15" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.538,228.981">
+              <ArcSegment Point="478.132,210.116" Size="15,15" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.523,266.584">
+              <ArcSegment Point="466.823,251.294" Size="13.333,13.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.823,228.705">
+              <ArcSegment Point="478.523,213.415" Size="13.333,13.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.802,263.940">
+              <ArcSegment Point="468.014,251.414" Size="12,12" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.014,228.585">
+              <ArcSegment Point="478.802,216.059" Size="12,12" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.401,248.921">
+              <ArcSegment Point="463.917,246.185" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="463.917,233.814">
+              <ArcSegment Point="468.401,231.078" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.066,247.053">
+              <ArcSegment Point="465.975,244.524" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.975,235.475">
+              <ArcSegment Point="469.066,232.946" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.811,245.660">
+              <ArcSegment Point="467.621,243.438" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="467.621,236.561">
+              <ArcSegment Point="469.811,234.339" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.543,244.613">
+              <ArcSegment Point="468.950,242.695" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.950,237.304">
+              <ArcSegment Point="470.543,235.386" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.224,243.815">
+              <ArcSegment Point="470.036,242.166" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.036,237.833">
+              <ArcSegment Point="471.224,236.184" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.842,243.198">
+              <ArcSegment Point="470.936,241.777" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.936,238.222">
+              <ArcSegment Point="471.842,236.801" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.864,250.810">
+              <ArcSegment Point="471.337,242.547" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.337,237.452">
+              <ArcSegment Point="464.864,229.189" Size="16,16" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.014,251.414">
+              <ArcSegment Point="471.842,243.198" Size="12,12" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.842,236.801">
+              <ArcSegment Point="468.014,228.585" Size="12,12" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.864,249.463">
+              <ArcSegment Point="473.394,262.018" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="473.394,217.981">
+              <ArcSegment Point="478.864,230.536" Size="40,40" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.985,249.156">
+              <ArcSegment Point="469.865,258.426" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.865,221.573">
+              <ArcSegment Point="477.985,230.843" Size="21.818,21.818" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.213,248.708">
+              <ArcSegment Point="468.292,254.634" Size="15,15" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.292,225.365">
+              <ArcSegment Point="477.213,231.291" Size="15,15" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.572,248.160">
+              <ArcSegment Point="468.014,251.414" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.014,228.585">
+              <ArcSegment Point="476.572,231.839" Size="11.428,11.428" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.070,247.556">
+              <ArcSegment Point="468.401,248.921" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.401,231.078">
+              <ArcSegment Point="476.070,232.443" Size="9.230,9.230" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.700,246.934">
+              <ArcSegment Point="469.066,247.053" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.066,232.946">
+              <ArcSegment Point="475.700,233.065" Size="7.741,7.741" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.447,246.322">
+              <ArcSegment Point="469.811,245.660" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.811,234.339">
+              <ArcSegment Point="475.447,233.677" Size="6.666,6.666" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.292,245.740">
+              <ArcSegment Point="470.543,244.613" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.543,235.386">
+              <ArcSegment Point="475.292,234.259" Size="5.853,5.853" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.216,245.199">
+              <ArcSegment Point="471.224,243.815" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.224,236.184">
+              <ArcSegment Point="475.216,234.800" Size="5.217,5.217" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.200,244.704">
+              <ArcSegment Point="471.842,243.198" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.842,236.801">
+              <ArcSegment Point="475.200,235.295" Size="4.705,4.705" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.233,259.169">
+              <ArcSegment Point="472.411,243.719" Size="9.6,9.6" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="472.411,236.280">
+              <ArcSegment Point="479.233,220.830" Size="9.6,9.6" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.467,255.982">
+              <ArcSegment Point="473.007,244.113" Size="8,8" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="473.007,235.886">
+              <ArcSegment Point="479.467,224.017" Size="8,8" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.608,253.703">
+              <ArcSegment Point="473.601,244.391" Size="6.857,6.857" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="473.601,235.608">
+              <ArcSegment Point="479.608,226.296" Size="6.857,6.857" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.700,251.992">
+              <ArcSegment Point="474.172,244.570" Size="6,6" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="474.172,235.429">
+              <ArcSegment Point="479.700,228.007" Size="6,6" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.763,250.661">
+              <ArcSegment Point="474.708,244.669" Size="5.333,5.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="474.708,235.330">
+              <ArcSegment Point="479.763,229.338" Size="5.333,5.333" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.808,249.596">
+              <ArcSegment Point="475.200,244.704" Size="4.8,4.8" SweepDirection="Clockwise"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.200,235.295">
+              <ArcSegment Point="479.808,230.403" Size="4.8,4.8" SweepDirection="Clockwise"/>
+            </PathFigure>
+          </PathGeometry>
+        </GeometryGroup>
+      </Path.Data>
+    </Path>
+  </Grid>
+</Page>

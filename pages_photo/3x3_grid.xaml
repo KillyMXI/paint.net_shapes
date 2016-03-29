@@ -1,0 +1,30 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+		<Path Stroke="#FF000000" StrokeThickness="1">
+			<Path.Data>
+				<PathGeometry>
+					<PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+						<LineSegment Point="480,0" />
+						<LineSegment Point="480,297" />
+						<LineSegment Point="0,297" />
+						<LineSegment Point="0,0" />
+					</PathFigure>
+					<PathFigure IsClosed="False" IsFilled="False" StartPoint="0,99">
+						<LineSegment Point="480,99" />
+					</PathFigure>
+					<PathFigure IsClosed="False" IsFilled="False" StartPoint="0,198">
+						<LineSegment Point="480,198" />
+					</PathFigure>
+					<PathFigure IsClosed="False" IsFilled="False" StartPoint="160,0">
+						<LineSegment Point="160,297" />
+					</PathFigure>
+					<PathFigure IsClosed="False" IsFilled="False" StartPoint="320,0">
+						<LineSegment Point="320,297" />
+					</PathFigure>
+				</PathGeometry>
+			</Path.Data>
+		</Path>
+  </Grid>
+</Page>

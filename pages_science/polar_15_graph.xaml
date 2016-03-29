@@ -1,0 +1,96 @@
+<Page
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+		<Path Stroke="#FF000000" StrokeThickness="1">
+			<Path.Data>
+  			<GeometryGroup>
+  				<EllipseGeometry Center="240,240" RadiusX="240" RadiusY="240" />
+  				<EllipseGeometry Center="240,240" RadiusX="210" RadiusY="210" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="210" RadiusY="210" />
+  				<EllipseGeometry Center="240,240" RadiusX="180" RadiusY="180" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="180" RadiusY="180" />
+  				<EllipseGeometry Center="240,240" RadiusX="150" RadiusY="150" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="150" RadiusY="150" />
+  				<EllipseGeometry Center="240,240" RadiusX="120" RadiusY="120" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="120" RadiusY="120" />
+  				<EllipseGeometry Center="240,240" RadiusX="90" RadiusY="90" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="90" RadiusY="90" />
+  				<EllipseGeometry Center="240,240" RadiusX="60" RadiusY="60" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="60" RadiusY="60" />
+  				<EllipseGeometry Center="240,240" RadiusX="30" RadiusY="30" />
+  				
+  				<EllipseGeometry Center="240,240" RadiusX="30" RadiusY="30" />
+  				
+  				<PathGeometry>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="0,240">
+  						<LineSegment Point="480,240" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="240,0">
+  						<LineSegment Point="240,480" />
+  					</PathFigure>
+  					
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="120,32.15">
+  						<LineSegment Point="360,447.85" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="32.15,120">
+  						<LineSegment Point="447.85,360" />
+  					</PathFigure>
+  					
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="360,32.15">
+  						<LineSegment Point="120,447.85" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="32.15,360">
+  						<LineSegment Point="447.85,120" />
+  					</PathFigure>
+  					
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="70.294,70.294">
+  						<LineSegment Point="218.787,218.787" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="409.706,70.294">
+  						<LineSegment Point="261.213,218.787" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="70.294,409.706">
+  						<LineSegment Point="218.787,261.213" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="409.706,409.706">
+  						<LineSegment Point="261.213,261.213" />
+  					</PathFigure>
+  					
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="177.88,8.178">
+  						<LineSegment Point="232.235,211.022" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="8.178,177.88">
+  						<LineSegment Point="211.022,232.235" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="177.88,471.822">
+  						<LineSegment Point="232.235,268.978" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="8.178,302.12">
+  						<LineSegment Point="211.022,247.765" />
+  					</PathFigure>
+  					
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="302.12,8.178">
+  						<LineSegment Point="247.765,211.022" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="471.822,177.88">
+  						<LineSegment Point="268.978,232.235" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="302.12,471.822">
+  						<LineSegment Point="247.765,268.978" />
+  					</PathFigure>
+  					<PathFigure IsClosed="False" IsFilled="False" StartPoint="471.822,302.12">
+  						<LineSegment Point="268.978,247.765" />
+  					</PathFigure>
+  				</PathGeometry>
+				</GeometryGroup>
+			</Path.Data>
+		</Path>
+  </Grid>
+</Page>

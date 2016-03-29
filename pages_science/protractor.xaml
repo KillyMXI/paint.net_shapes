@@ -1,0 +1,1088 @@
+
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+    <Path Stroke="#FF000000" StrokeThickness="1">
+      <Path.Data>
+        <GeometryGroup>
+          <EllipseGeometry Center="240,240" RadiusX="240" RadiusY="240"/>
+          <PathGeometry>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,240">
+              <LineSegment Point="480,240"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,0">
+              <LineSegment Point="240,480"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="244.188,479.963">
+              <LineSegment Point="243.810,458.325"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="248.375,479.853">
+              <LineSegment Point="247.620,458.226"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="252.560,479.671">
+              <LineSegment Point="251.428,458.059"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="256.741,479.415">
+              <LineSegment Point="255.231,457.827"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="260.917,479.086">
+              <LineSegment Point="257.865,444.204"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="265.086,478.685">
+              <LineSegment Point="262.824,457.163"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="269.248,478.211">
+              <LineSegment Point="266.611,456.731"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="273.401,477.664">
+              <LineSegment Point="270.389,456.234"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="277.544,477.045">
+              <LineSegment Point="274.158,455.670"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="281.675,476.353">
+              <LineSegment Point="271.837,420.558"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="285.794,475.590">
+              <LineSegment Point="281.664,454.347"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="289.898,474.755">
+              <LineSegment Point="285.399,453.587"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="293.988,473.848">
+              <LineSegment Point="289.120,452.762"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="298.061,472.870">
+              <LineSegment Point="292.825,451.873"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="302.116,471.822">
+              <LineSegment Point="293.053,437.999"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="306.152,470.702">
+              <LineSegment Point="300.187,449.900"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="310.169,469.513">
+              <LineSegment Point="303.842,448.817"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="314.164,468.253">
+              <LineSegment Point="307.476,447.671"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="318.136,466.924">
+              <LineSegment Point="311.090,446.462"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="322.084,465.526">
+              <LineSegment Point="302.707,412.286"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="326.008,464.059">
+              <LineSegment Point="318.252,443.855"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="329.905,462.524">
+              <LineSegment Point="321.798,442.459"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="333.775,460.921">
+              <LineSegment Point="325.319,441.000"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="337.616,459.250">
+              <LineSegment Point="328.814,439.481"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="341.428,457.513">
+              <LineSegment Point="326.630,425.779"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="345.209,455.710">
+              <LineSegment Point="335.722,436.259"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="348.957,453.841">
+              <LineSegment Point="339.133,434.559"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="352.673,451.907">
+              <LineSegment Point="342.513,432.799"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="356.354,449.908">
+              <LineSegment Point="345.862,430.981"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,447.846">
+              <LineSegment Point="331.671,398.780"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="363.609,445.720">
+              <LineSegment Point="352.463,427.170"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="367.180,443.531">
+              <LineSegment Point="355.712,425.179"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="370.713,441.280">
+              <LineSegment Point="358.926,423.131"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="374.206,438.969">
+              <LineSegment Point="362.104,421.027"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="377.658,436.596">
+              <LineSegment Point="357.574,407.913"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="381.068,434.164">
+              <LineSegment Point="368.348,416.656"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384.435,431.672">
+              <LineSegment Point="371.411,414.389"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="387.758,429.122">
+              <LineSegment Point="374.435,412.069"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="391.036,426.515">
+              <LineSegment Point="377.417,409.696"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="394.269,423.850">
+              <LineSegment Point="357.851,380.449"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="397.454,421.130">
+              <LineSegment Point="383.256,404.797"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.591,418.354">
+              <LineSegment Point="386.110,402.272"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="403.679,415.524">
+              <LineSegment Point="388.920,399.697"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="406.718,412.641">
+              <LineSegment Point="391.685,397.074"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="409.705,409.705">
+              <LineSegment Point="304.821,304.821"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="412.641,406.718">
+              <LineSegment Point="397.074,391.685"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="415.524,403.679">
+              <LineSegment Point="399.697,388.920"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="418.354,400.591">
+              <LineSegment Point="402.272,386.110"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="421.130,397.454">
+              <LineSegment Point="404.797,383.256"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="423.850,394.269">
+              <LineSegment Point="380.449,357.851"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.515,391.036">
+              <LineSegment Point="409.696,377.417"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="429.122,387.758">
+              <LineSegment Point="412.069,374.435"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="431.672,384.435">
+              <LineSegment Point="414.389,371.411"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="434.164,381.068">
+              <LineSegment Point="416.656,368.348"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.596,377.658">
+              <LineSegment Point="407.913,357.574"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="438.969,374.206">
+              <LineSegment Point="421.027,362.104"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.280,370.713">
+              <LineSegment Point="423.131,358.926"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.531,367.180">
+              <LineSegment Point="425.179,355.712"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="445.720,363.609">
+              <LineSegment Point="427.170,352.463"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="447.846,360">
+              <LineSegment Point="398.780,331.671"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="449.908,356.354">
+              <LineSegment Point="430.981,345.862"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.907,352.673">
+              <LineSegment Point="432.799,342.513"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="453.841,348.957">
+              <LineSegment Point="434.559,339.133"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="455.710,345.209">
+              <LineSegment Point="436.259,335.722"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.513,341.428">
+              <LineSegment Point="425.779,326.630"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="459.250,337.616">
+              <LineSegment Point="439.481,328.814"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.921,333.775">
+              <LineSegment Point="441.000,325.319"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="462.524,329.905">
+              <LineSegment Point="442.459,321.798"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.059,326.008">
+              <LineSegment Point="443.855,318.252"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.526,322.084">
+              <LineSegment Point="412.286,302.707"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.924,318.136">
+              <LineSegment Point="446.462,311.090"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.253,314.164">
+              <LineSegment Point="447.671,307.476"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.513,310.169">
+              <LineSegment Point="448.817,303.842"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.702,306.152">
+              <LineSegment Point="449.900,300.187"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.822,302.116">
+              <LineSegment Point="437.999,293.053"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="472.870,298.061">
+              <LineSegment Point="451.873,292.825"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="473.848,293.988">
+              <LineSegment Point="452.762,289.120"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="474.755,289.898">
+              <LineSegment Point="453.587,285.399"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.590,285.794">
+              <LineSegment Point="454.347,281.664"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.353,281.675">
+              <LineSegment Point="420.558,271.837"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.045,277.544">
+              <LineSegment Point="455.670,274.158"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.664,273.401">
+              <LineSegment Point="456.234,270.389"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.211,269.248">
+              <LineSegment Point="456.731,266.611"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.685,265.086">
+              <LineSegment Point="457.163,262.824"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.086,260.917">
+              <LineSegment Point="444.204,257.865"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.415,256.741">
+              <LineSegment Point="457.827,255.231"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.671,252.560">
+              <LineSegment Point="458.059,251.428"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.853,248.375">
+              <LineSegment Point="458.226,247.620"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.963,244.188">
+              <LineSegment Point="458.325,243.810"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.963,235.811">
+              <LineSegment Point="458.325,236.189"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.853,231.624">
+              <LineSegment Point="458.226,232.379"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.671,227.439">
+              <LineSegment Point="458.059,228.571"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.415,223.258">
+              <LineSegment Point="457.827,224.768"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="479.086,219.082">
+              <LineSegment Point="444.204,222.134"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.685,214.913">
+              <LineSegment Point="457.163,217.175"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="478.211,210.751">
+              <LineSegment Point="456.731,213.388"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.664,206.598">
+              <LineSegment Point="456.234,209.610"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="477.045,202.455">
+              <LineSegment Point="455.670,205.841"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.353,198.324">
+              <LineSegment Point="420.558,208.162"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="475.590,194.205">
+              <LineSegment Point="454.347,198.335"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="474.755,190.101">
+              <LineSegment Point="453.587,194.600"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="473.848,186.011">
+              <LineSegment Point="452.762,190.879"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="472.870,181.938">
+              <LineSegment Point="451.873,187.174"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="471.822,177.883">
+              <LineSegment Point="437.999,186.946"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="470.702,173.847">
+              <LineSegment Point="449.900,179.812"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="469.513,169.830">
+              <LineSegment Point="448.817,176.157"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="468.253,165.835">
+              <LineSegment Point="447.671,172.523"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="466.924,161.863">
+              <LineSegment Point="446.462,168.909"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.526,157.915">
+              <LineSegment Point="412.286,177.292"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="464.059,153.991">
+              <LineSegment Point="443.855,161.747"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="462.524,150.094">
+              <LineSegment Point="442.459,158.201"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="460.921,146.224">
+              <LineSegment Point="441.000,154.680"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="459.250,142.383">
+              <LineSegment Point="439.481,151.185"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="457.513,138.571">
+              <LineSegment Point="425.779,153.369"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="455.710,134.790">
+              <LineSegment Point="436.259,144.277"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="453.841,131.042">
+              <LineSegment Point="434.559,140.866"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="451.907,127.326">
+              <LineSegment Point="432.799,137.486"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="449.908,123.645">
+              <LineSegment Point="430.981,134.137"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="447.846,120">
+              <LineSegment Point="398.780,148.328"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="445.720,116.390">
+              <LineSegment Point="427.170,127.536"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="443.531,112.819">
+              <LineSegment Point="425.179,124.287"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="441.280,109.286">
+              <LineSegment Point="423.131,121.073"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="438.969,105.793">
+              <LineSegment Point="421.027,117.895"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="436.596,102.341">
+              <LineSegment Point="407.913,122.425"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="434.164,98.931">
+              <LineSegment Point="416.656,111.651"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="431.672,95.564">
+              <LineSegment Point="414.389,108.588"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="429.122,92.241">
+              <LineSegment Point="412.069,105.564"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="426.515,88.963">
+              <LineSegment Point="409.696,102.582"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="423.850,85.730">
+              <LineSegment Point="380.449,122.148"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="421.130,82.545">
+              <LineSegment Point="404.797,96.743"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="418.354,79.408">
+              <LineSegment Point="402.272,93.889"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="415.524,76.320">
+              <LineSegment Point="399.697,91.079"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="412.641,73.281">
+              <LineSegment Point="397.074,88.314"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="409.705,70.294">
+              <LineSegment Point="304.821,175.178"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="406.718,67.358">
+              <LineSegment Point="391.685,82.925"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="403.679,64.475">
+              <LineSegment Point="388.920,80.302"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="400.591,61.645">
+              <LineSegment Point="386.110,77.727"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="397.454,58.869">
+              <LineSegment Point="383.256,75.202"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="394.269,56.149">
+              <LineSegment Point="357.851,99.550"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="391.036,53.484">
+              <LineSegment Point="377.417,70.303"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="387.758,50.877">
+              <LineSegment Point="374.435,67.930"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="384.435,48.327">
+              <LineSegment Point="371.411,65.610"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="381.068,45.835">
+              <LineSegment Point="368.348,63.343"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="377.658,43.403">
+              <LineSegment Point="357.574,72.086"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="374.206,41.030">
+              <LineSegment Point="362.104,58.972"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="370.713,38.719">
+              <LineSegment Point="358.926,56.868"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="367.180,36.468">
+              <LineSegment Point="355.712,54.820"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="363.609,34.279">
+              <LineSegment Point="352.463,52.829"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,32.153">
+              <LineSegment Point="331.671,81.219"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="356.354,30.091">
+              <LineSegment Point="345.862,49.018"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="352.673,28.092">
+              <LineSegment Point="342.513,47.200"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="348.957,26.158">
+              <LineSegment Point="339.133,45.440"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="345.209,24.289">
+              <LineSegment Point="335.722,43.740"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="341.428,22.486">
+              <LineSegment Point="326.630,54.220"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="337.616,20.749">
+              <LineSegment Point="328.814,40.518"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="333.775,19.078">
+              <LineSegment Point="325.319,38.999"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="329.905,17.475">
+              <LineSegment Point="321.798,37.540"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="326.008,15.940">
+              <LineSegment Point="318.252,36.144"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="322.084,14.473">
+              <LineSegment Point="302.707,67.713"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="318.136,13.075">
+              <LineSegment Point="311.090,33.537"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="314.164,11.746">
+              <LineSegment Point="307.476,32.328"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="310.169,10.486">
+              <LineSegment Point="303.842,31.182"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="306.152,9.297">
+              <LineSegment Point="300.187,30.099"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="302.116,8.177">
+              <LineSegment Point="293.053,42.000"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="298.061,7.129">
+              <LineSegment Point="292.825,28.126"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="293.988,6.151">
+              <LineSegment Point="289.120,27.237"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="289.898,5.244">
+              <LineSegment Point="285.399,26.412"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="285.794,4.409">
+              <LineSegment Point="281.664,25.652"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="281.675,3.646">
+              <LineSegment Point="271.837,59.441"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="277.544,2.954">
+              <LineSegment Point="274.158,24.329"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="273.401,2.335">
+              <LineSegment Point="270.389,23.765"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="269.248,1.788">
+              <LineSegment Point="266.611,23.268"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="265.086,1.314">
+              <LineSegment Point="262.824,22.836"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="260.917,0.913">
+              <LineSegment Point="257.865,35.795"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="256.741,0.584">
+              <LineSegment Point="255.231,22.172"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="252.560,0.328">
+              <LineSegment Point="251.428,21.940"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="248.375,0.146">
+              <LineSegment Point="247.620,21.773"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="244.188,0.036">
+              <LineSegment Point="243.810,21.674"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="235.811,0.036">
+              <LineSegment Point="236.189,21.674"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="231.624,0.146">
+              <LineSegment Point="232.379,21.773"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="227.439,0.328">
+              <LineSegment Point="228.571,21.940"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="223.258,0.584">
+              <LineSegment Point="224.768,22.172"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="219.082,0.913">
+              <LineSegment Point="222.134,35.795"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="214.913,1.314">
+              <LineSegment Point="217.175,22.836"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="210.751,1.788">
+              <LineSegment Point="213.388,23.268"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="206.598,2.335">
+              <LineSegment Point="209.610,23.765"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="202.455,2.954">
+              <LineSegment Point="205.841,24.329"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="198.324,3.646">
+              <LineSegment Point="208.162,59.441"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="194.205,4.409">
+              <LineSegment Point="198.335,25.652"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="190.101,5.244">
+              <LineSegment Point="194.600,26.412"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="186.011,6.151">
+              <LineSegment Point="190.879,27.237"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="181.938,7.129">
+              <LineSegment Point="187.174,28.126"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="177.883,8.177">
+              <LineSegment Point="186.946,42.000"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="173.847,9.297">
+              <LineSegment Point="179.812,30.099"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="169.830,10.486">
+              <LineSegment Point="176.157,31.182"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="165.835,11.746">
+              <LineSegment Point="172.523,32.328"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="161.863,13.075">
+              <LineSegment Point="168.909,33.537"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="157.915,14.473">
+              <LineSegment Point="177.292,67.713"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="153.991,15.940">
+              <LineSegment Point="161.747,36.144"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="150.094,17.475">
+              <LineSegment Point="158.201,37.540"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="146.224,19.078">
+              <LineSegment Point="154.680,38.999"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="142.383,20.749">
+              <LineSegment Point="151.185,40.518"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="138.571,22.486">
+              <LineSegment Point="153.369,54.220"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="134.790,24.289">
+              <LineSegment Point="144.277,43.740"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="131.042,26.158">
+              <LineSegment Point="140.866,45.440"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="127.326,28.092">
+              <LineSegment Point="137.486,47.200"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="123.645,30.091">
+              <LineSegment Point="134.137,49.018"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,32.153">
+              <LineSegment Point="148.328,81.219"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="116.390,34.279">
+              <LineSegment Point="127.536,52.829"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="112.819,36.468">
+              <LineSegment Point="124.287,54.820"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="109.286,38.719">
+              <LineSegment Point="121.073,56.868"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="105.793,41.030">
+              <LineSegment Point="117.895,58.972"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="102.341,43.403">
+              <LineSegment Point="122.425,72.086"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="98.931,45.835">
+              <LineSegment Point="111.651,63.343"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="95.564,48.327">
+              <LineSegment Point="108.588,65.610"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="92.241,50.877">
+              <LineSegment Point="105.564,67.930"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="88.963,53.484">
+              <LineSegment Point="102.582,70.303"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="85.730,56.149">
+              <LineSegment Point="122.148,99.550"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="82.545,58.869">
+              <LineSegment Point="96.743,75.202"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="79.408,61.645">
+              <LineSegment Point="93.889,77.727"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="76.320,64.475">
+              <LineSegment Point="91.079,80.302"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="73.281,67.358">
+              <LineSegment Point="88.314,82.925"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="70.294,70.294">
+              <LineSegment Point="175.178,175.178"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="67.358,73.281">
+              <LineSegment Point="82.925,88.314"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="64.475,76.320">
+              <LineSegment Point="80.302,91.079"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="61.645,79.408">
+              <LineSegment Point="77.727,93.889"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="58.869,82.545">
+              <LineSegment Point="75.202,96.743"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="56.149,85.730">
+              <LineSegment Point="99.550,122.148"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="53.484,88.963">
+              <LineSegment Point="70.303,102.582"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="50.877,92.241">
+              <LineSegment Point="67.930,105.564"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="48.327,95.564">
+              <LineSegment Point="65.610,108.588"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="45.835,98.931">
+              <LineSegment Point="63.343,111.651"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="43.403,102.341">
+              <LineSegment Point="72.086,122.425"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="41.030,105.793">
+              <LineSegment Point="58.972,117.895"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="38.719,109.286">
+              <LineSegment Point="56.868,121.073"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="36.468,112.819">
+              <LineSegment Point="54.820,124.287"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="34.279,116.390">
+              <LineSegment Point="52.829,127.536"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="32.153,120">
+              <LineSegment Point="81.219,148.328"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="30.091,123.645">
+              <LineSegment Point="49.018,134.137"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="28.092,127.326">
+              <LineSegment Point="47.200,137.486"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="26.158,131.042">
+              <LineSegment Point="45.440,140.866"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="24.289,134.790">
+              <LineSegment Point="43.740,144.277"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="22.486,138.571">
+              <LineSegment Point="54.220,153.369"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="20.749,142.383">
+              <LineSegment Point="40.518,151.185"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="19.078,146.224">
+              <LineSegment Point="38.999,154.680"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="17.475,150.094">
+              <LineSegment Point="37.540,158.201"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="15.940,153.991">
+              <LineSegment Point="36.144,161.747"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="14.473,157.915">
+              <LineSegment Point="67.713,177.292"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="13.075,161.863">
+              <LineSegment Point="33.537,168.909"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="11.746,165.835">
+              <LineSegment Point="32.328,172.523"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="10.486,169.830">
+              <LineSegment Point="31.182,176.157"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="9.297,173.847">
+              <LineSegment Point="30.099,179.812"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="8.177,177.883">
+              <LineSegment Point="42.000,186.946"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="7.129,181.938">
+              <LineSegment Point="28.126,187.174"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="6.151,186.011">
+              <LineSegment Point="27.237,190.879"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="5.244,190.101">
+              <LineSegment Point="26.412,194.600"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="4.409,194.205">
+              <LineSegment Point="25.652,198.335"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="3.646,198.324">
+              <LineSegment Point="59.441,208.162"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="2.954,202.455">
+              <LineSegment Point="24.329,205.841"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="2.335,206.598">
+              <LineSegment Point="23.765,209.610"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="1.788,210.751">
+              <LineSegment Point="23.268,213.388"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="1.314,214.913">
+              <LineSegment Point="22.836,217.175"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.913,219.082">
+              <LineSegment Point="35.795,222.134"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.584,223.258">
+              <LineSegment Point="22.172,224.768"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.328,227.439">
+              <LineSegment Point="21.940,228.571"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.146,231.624">
+              <LineSegment Point="21.773,232.379"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.036,235.811">
+              <LineSegment Point="21.674,236.189"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.036,244.188">
+              <LineSegment Point="21.674,243.810"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.146,248.375">
+              <LineSegment Point="21.773,247.620"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.328,252.560">
+              <LineSegment Point="21.940,251.428"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.584,256.741">
+              <LineSegment Point="22.172,255.231"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="0.913,260.917">
+              <LineSegment Point="35.795,257.865"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="1.314,265.086">
+              <LineSegment Point="22.836,262.824"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="1.788,269.248">
+              <LineSegment Point="23.268,266.611"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="2.335,273.401">
+              <LineSegment Point="23.765,270.389"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="2.954,277.544">
+              <LineSegment Point="24.329,274.158"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="3.646,281.675">
+              <LineSegment Point="59.441,271.837"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="4.409,285.794">
+              <LineSegment Point="25.652,281.664"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="5.244,289.898">
+              <LineSegment Point="26.412,285.399"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="6.151,293.988">
+              <LineSegment Point="27.237,289.120"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="7.129,298.061">
+              <LineSegment Point="28.126,292.825"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="8.177,302.116">
+              <LineSegment Point="42.000,293.053"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="9.297,306.152">
+              <LineSegment Point="30.099,300.187"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="10.486,310.169">
+              <LineSegment Point="31.182,303.842"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="11.746,314.164">
+              <LineSegment Point="32.328,307.476"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="13.075,318.136">
+              <LineSegment Point="33.537,311.090"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="14.473,322.084">
+              <LineSegment Point="67.713,302.707"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="15.940,326.008">
+              <LineSegment Point="36.144,318.252"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="17.475,329.905">
+              <LineSegment Point="37.540,321.798"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="19.078,333.775">
+              <LineSegment Point="38.999,325.319"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="20.749,337.616">
+              <LineSegment Point="40.518,328.814"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="22.486,341.428">
+              <LineSegment Point="54.220,326.630"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="24.289,345.209">
+              <LineSegment Point="43.740,335.722"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="26.158,348.957">
+              <LineSegment Point="45.440,339.133"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="28.092,352.673">
+              <LineSegment Point="47.200,342.513"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="30.091,356.354">
+              <LineSegment Point="49.018,345.862"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="32.153,360">
+              <LineSegment Point="81.219,331.671"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="34.279,363.609">
+              <LineSegment Point="52.829,352.463"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="36.468,367.180">
+              <LineSegment Point="54.820,355.712"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="38.719,370.713">
+              <LineSegment Point="56.868,358.926"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="41.030,374.206">
+              <LineSegment Point="58.972,362.104"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="43.403,377.658">
+              <LineSegment Point="72.086,357.574"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="45.835,381.068">
+              <LineSegment Point="63.343,368.348"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="48.327,384.435">
+              <LineSegment Point="65.610,371.411"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="50.877,387.758">
+              <LineSegment Point="67.930,374.435"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="53.484,391.036">
+              <LineSegment Point="70.303,377.417"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="56.149,394.269">
+              <LineSegment Point="99.550,357.851"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="58.869,397.454">
+              <LineSegment Point="75.202,383.256"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="61.645,400.591">
+              <LineSegment Point="77.727,386.110"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="64.475,403.679">
+              <LineSegment Point="80.302,388.920"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="67.358,406.718">
+              <LineSegment Point="82.925,391.685"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="70.294,409.705">
+              <LineSegment Point="175.178,304.821"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="73.281,412.641">
+              <LineSegment Point="88.314,397.074"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="76.320,415.524">
+              <LineSegment Point="91.079,399.697"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="79.408,418.354">
+              <LineSegment Point="93.889,402.272"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="82.545,421.130">
+              <LineSegment Point="96.743,404.797"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="85.730,423.850">
+              <LineSegment Point="122.148,380.449"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="88.963,426.515">
+              <LineSegment Point="102.582,409.696"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="92.241,429.122">
+              <LineSegment Point="105.564,412.069"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="95.564,431.672">
+              <LineSegment Point="108.588,414.389"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="98.931,434.164">
+              <LineSegment Point="111.651,416.656"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="102.341,436.596">
+              <LineSegment Point="122.425,407.913"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="105.793,438.969">
+              <LineSegment Point="117.895,421.027"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="109.286,441.280">
+              <LineSegment Point="121.073,423.131"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="112.819,443.531">
+              <LineSegment Point="124.287,425.179"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="116.390,445.720">
+              <LineSegment Point="127.536,427.170"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,447.846">
+              <LineSegment Point="148.328,398.780"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="123.645,449.908">
+              <LineSegment Point="134.137,430.981"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="127.326,451.907">
+              <LineSegment Point="137.486,432.799"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="131.042,453.841">
+              <LineSegment Point="140.866,434.559"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="134.790,455.710">
+              <LineSegment Point="144.277,436.259"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="138.571,457.513">
+              <LineSegment Point="153.369,425.779"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="142.383,459.250">
+              <LineSegment Point="151.185,439.481"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="146.224,460.921">
+              <LineSegment Point="154.680,441.000"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="150.094,462.524">
+              <LineSegment Point="158.201,442.459"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="153.991,464.059">
+              <LineSegment Point="161.747,443.855"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="157.915,465.526">
+              <LineSegment Point="177.292,412.286"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="161.863,466.924">
+              <LineSegment Point="168.909,446.462"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="165.835,468.253">
+              <LineSegment Point="172.523,447.671"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="169.830,469.513">
+              <LineSegment Point="176.157,448.817"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="173.847,470.702">
+              <LineSegment Point="179.812,449.900"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="177.883,471.822">
+              <LineSegment Point="186.946,437.999"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="181.938,472.870">
+              <LineSegment Point="187.174,451.873"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="186.011,473.848">
+              <LineSegment Point="190.879,452.762"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="190.101,474.755">
+              <LineSegment Point="194.600,453.587"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="194.205,475.590">
+              <LineSegment Point="198.335,454.347"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="198.324,476.353">
+              <LineSegment Point="208.162,420.558"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="202.455,477.045">
+              <LineSegment Point="205.841,455.670"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="206.598,477.664">
+              <LineSegment Point="209.610,456.234"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="210.751,478.211">
+              <LineSegment Point="213.388,456.731"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="214.913,478.685">
+              <LineSegment Point="217.175,457.163"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="219.082,479.086">
+              <LineSegment Point="222.134,444.204"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="223.258,479.415">
+              <LineSegment Point="224.768,457.827"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="227.439,479.671">
+              <LineSegment Point="228.571,458.059"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="231.624,479.853">
+              <LineSegment Point="232.379,458.226"/>
+            </PathFigure>
+            <PathFigure IsClosed="False" IsFilled="False" StartPoint="235.811,479.963">
+              <LineSegment Point="236.189,458.325"/>
+            </PathFigure>
+          </PathGeometry>
+        </GeometryGroup>
+      </Path.Data>
+    </Path>
+  </Grid>
+</Page>

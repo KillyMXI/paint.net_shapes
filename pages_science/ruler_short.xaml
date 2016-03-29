@@ -1,0 +1,164 @@
+
+<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Grid>
+    <Path Stroke="#FF000000" StrokeThickness="1">
+      <Path.Data>
+        <PathGeometry>
+          <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+            <LineSegment Point="250,0"/>
+            <LineSegment Point="250,100"/>
+            <LineSegment Point="0,100"/>
+            <LineSegment Point="0,0"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="5,0">
+            <LineSegment Point="5,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="10,0">
+            <LineSegment Point="10,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="15,0">
+            <LineSegment Point="15,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="20,0">
+            <LineSegment Point="20,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="25,0">
+            <LineSegment Point="25,41.982"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="30,0">
+            <LineSegment Point="30,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="35,0">
+            <LineSegment Point="35,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="40,0">
+            <LineSegment Point="40,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="45,0">
+            <LineSegment Point="45,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="50,0">
+            <LineSegment Point="50,83.964"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="55,0">
+            <LineSegment Point="55,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="60,0">
+            <LineSegment Point="60,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="65,0">
+            <LineSegment Point="65,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="70,0">
+            <LineSegment Point="70,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="75,0">
+            <LineSegment Point="75,41.982"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="80,0">
+            <LineSegment Point="80,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="85,0">
+            <LineSegment Point="85,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="90,0">
+            <LineSegment Point="90,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="95,0">
+            <LineSegment Point="95,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="100,0">
+            <LineSegment Point="100,83.964"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="105,0">
+            <LineSegment Point="105,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="110,0">
+            <LineSegment Point="110,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="115,0">
+            <LineSegment Point="115,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,0">
+            <LineSegment Point="120,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="125,0">
+            <LineSegment Point="125,41.982"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="130,0">
+            <LineSegment Point="130,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="135,0">
+            <LineSegment Point="135,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="140,0">
+            <LineSegment Point="140,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="145,0">
+            <LineSegment Point="145,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="150,0">
+            <LineSegment Point="150,83.964"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="155,0">
+            <LineSegment Point="155,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="160,0">
+            <LineSegment Point="160,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="165,0">
+            <LineSegment Point="165,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="170,0">
+            <LineSegment Point="170,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="175,0">
+            <LineSegment Point="175,41.982"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="180,0">
+            <LineSegment Point="180,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="185,0">
+            <LineSegment Point="185,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="190,0">
+            <LineSegment Point="190,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="195,0">
+            <LineSegment Point="195,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="200,0">
+            <LineSegment Point="200,83.964"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="205,0">
+            <LineSegment Point="205,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="210,0">
+            <LineSegment Point="210,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="215,0">
+            <LineSegment Point="215,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="220,0">
+            <LineSegment Point="220,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="225,0">
+            <LineSegment Point="225,41.982"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="230,0">
+            <LineSegment Point="230,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="235,0">
+            <LineSegment Point="235,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,0">
+            <LineSegment Point="240,16.035"/>
+          </PathFigure>
+          <PathFigure IsClosed="False" IsFilled="False" StartPoint="245,0">
+            <LineSegment Point="245,16.035"/>
+          </PathFigure>
+        </PathGeometry>
+      </Path.Data>
+    </Path>
+  </Grid>
+</Page>
