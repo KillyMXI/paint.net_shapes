@@ -1,0 +1,22 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="3x3_grid">
+  <PathGeometry>
+    <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+      <LineSegment Point="480,0" />
+      <LineSegment Point="480,297" />
+      <LineSegment Point="0,297" />
+      <LineSegment Point="0,0" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,99">
+      <LineSegment Point="480,99" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,198">
+      <LineSegment Point="480,198" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="160,0">
+      <LineSegment Point="160,297" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="320,0">
+      <LineSegment Point="320,297" />
+    </PathFigure>
+  </PathGeometry>
+</ps:SimpleGeometryShape>

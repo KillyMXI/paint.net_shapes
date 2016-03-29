@@ -1,0 +1,28 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="4x4_grid">
+  <PathGeometry>
+    <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+      <LineSegment Point="480,0" />
+      <LineSegment Point="480,300" />
+      <LineSegment Point="0,300" />
+      <LineSegment Point="0,0" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,75">
+      <LineSegment Point="480,75" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,150">
+      <LineSegment Point="480,150" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,225">
+      <LineSegment Point="480,225" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,0">
+      <LineSegment Point="120,300" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,0">
+      <LineSegment Point="240,300" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,0">
+      <LineSegment Point="360,300" />
+    </PathFigure>
+  </PathGeometry>
+</ps:SimpleGeometryShape>

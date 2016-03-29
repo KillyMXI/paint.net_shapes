@@ -1,0 +1,19 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="golden_diagonals_1">
+  <PathGeometry>
+    <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+      <LineSegment Point="480,0" />
+      <LineSegment Point="480,297" />
+      <LineSegment Point="0,297" />
+      <LineSegment Point="0,0" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,0">
+      <LineSegment Point="480,297" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,297">
+      <LineSegment Point="480,113.5" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,183.5">
+      <LineSegment Point="480,0" />
+    </PathFigure>
+  </PathGeometry>
+</ps:SimpleGeometryShape>

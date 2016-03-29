@@ -1,0 +1,129 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="polar_10_graph">
+  <GeometryGroup>
+    <EllipseGeometry Center="240,240" RadiusX="240" RadiusY="240" />
+    <EllipseGeometry Center="240,240" RadiusX="210" RadiusY="210" />
+    <EllipseGeometry Center="240,240" RadiusX="210" RadiusY="210" />
+    <EllipseGeometry Center="240,240" RadiusX="180" RadiusY="180" />
+    <EllipseGeometry Center="240,240" RadiusX="180" RadiusY="180" />
+    <EllipseGeometry Center="240,240" RadiusX="150" RadiusY="150" />
+    <EllipseGeometry Center="240,240" RadiusX="150" RadiusY="150" />
+    <EllipseGeometry Center="240,240" RadiusX="120" RadiusY="120" />
+    <EllipseGeometry Center="240,240" RadiusX="120" RadiusY="120" />
+    <EllipseGeometry Center="240,240" RadiusX="90" RadiusY="90" />
+    <EllipseGeometry Center="240,240" RadiusX="90" RadiusY="90" />
+    <EllipseGeometry Center="240,240" RadiusX="60" RadiusY="60" />
+    <EllipseGeometry Center="240,240" RadiusX="60" RadiusY="60" />
+    <EllipseGeometry Center="240,240" RadiusX="30" RadiusY="30" />
+    <EllipseGeometry Center="240,240" RadiusX="30" RadiusY="30" />
+    <PathGeometry>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,480">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="281.675,476.353">
+        <LineSegment Point="245.209,269.544" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="322.084,465.526">
+        <LineSegment Point="250.260,268.190" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,447.846">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="394.269,423.850">
+        <LineSegment Point="259.283,262.981" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="423.850,394.269">
+        <LineSegment Point="262.981,259.283" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="447.846,360">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.526,322.084">
+        <LineSegment Point="268.190,250.260" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.353,281.675">
+        <LineSegment Point="269.544,245.209" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="480,240">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="476.353,198.324">
+        <LineSegment Point="269.544,234.790" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="465.526,157.915">
+        <LineSegment Point="268.190,229.739" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="447.846,120">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="423.850,85.730">
+        <LineSegment Point="262.981,220.716" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="394.269,56.149">
+        <LineSegment Point="259.283,217.018" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,32.153">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="322.084,14.473">
+        <LineSegment Point="250.260,211.809" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="281.675,3.646">
+        <LineSegment Point="245.209,210.455" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,0">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="198.324,3.646">
+        <LineSegment Point="234.790,210.455" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="157.915,14.473">
+        <LineSegment Point="229.739,211.809" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,32.153">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="85.730,56.149">
+        <LineSegment Point="220.716,217.018" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="56.149,85.730">
+        <LineSegment Point="217.018,220.716" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="32.153,120">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="14.473,157.915">
+        <LineSegment Point="211.809,229.739" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="3.646,198.324">
+        <LineSegment Point="210.455,234.790" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,240">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="3.646,281.675">
+        <LineSegment Point="210.455,245.209" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="14.473,322.084">
+        <LineSegment Point="211.809,250.260" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="32.153,360">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="56.149,394.269">
+        <LineSegment Point="217.018,259.283" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="85.730,423.850">
+        <LineSegment Point="220.716,262.981" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,447.846">
+        <LineSegment Point="240,240" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="157.915,465.526">
+        <LineSegment Point="229.739,268.190" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="198.324,476.353">
+        <LineSegment Point="234.790,269.544" />
+      </PathFigure>
+    </PathGeometry>
+  </GeometryGroup>
+</ps:SimpleGeometryShape>

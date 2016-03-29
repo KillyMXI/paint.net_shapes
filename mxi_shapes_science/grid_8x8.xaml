@@ -1,0 +1,52 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="grid_8x8">
+  <PathGeometry>
+    <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+      <LineSegment Point="480,0" />
+      <LineSegment Point="480,480" />
+      <LineSegment Point="0,480" />
+      <LineSegment Point="0,0" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,60">
+      <LineSegment Point="480,60" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,120">
+      <LineSegment Point="480,120" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,180">
+      <LineSegment Point="480,180" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,240">
+      <LineSegment Point="480,240" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,300">
+      <LineSegment Point="480,300" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,360">
+      <LineSegment Point="480,360" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,420">
+      <LineSegment Point="480,420" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="60,0">
+      <LineSegment Point="60,480" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="120,0">
+      <LineSegment Point="120,480" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="180,0">
+      <LineSegment Point="180,480" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,0">
+      <LineSegment Point="240,480" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="300,0">
+      <LineSegment Point="300,480" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="360,0">
+      <LineSegment Point="360,480" />
+    </PathFigure>
+    <PathFigure IsClosed="False" IsFilled="False" StartPoint="420,0">
+      <LineSegment Point="420,480" />
+    </PathFigure>
+  </PathGeometry>
+</ps:SimpleGeometryShape>

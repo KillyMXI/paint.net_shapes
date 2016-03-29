@@ -1,0 +1,24 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="golden_triangle">
+  <GeometryGroup>
+    <PathGeometry>
+      <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+        <LineSegment Point="480,0" />
+        <LineSegment Point="480,297" />
+        <LineSegment Point="0,297" />
+        <LineSegment Point="0,0" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,0">
+        <LineSegment Point="480,297" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,297">
+        <LineSegment Point="480,0" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="133,82.2">
+        <LineSegment Point="0,297" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="347,214.8">
+        <LineSegment Point="480,0" />
+      </PathFigure>
+    </PathGeometry>
+  </GeometryGroup>
+</ps:SimpleGeometryShape>

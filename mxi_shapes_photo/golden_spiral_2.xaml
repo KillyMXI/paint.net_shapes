@@ -1,0 +1,57 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="golden_spiral_2">
+  <GeometryGroup>
+    <PathGeometry>
+      <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+        <LineSegment Point="480,0" />
+        <LineSegment Point="480,297" />
+        <LineSegment Point="0,297" />
+        <LineSegment Point="0,0" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,297">
+        <ArcSegment Size="297,297" Point="297,0" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="297,0">
+        <ArcSegment Size="183.5,183.5" Point="480,183.5" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="480,183.5">
+        <ArcSegment Size="114,114" Point="367,297" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="367,297">
+        <ArcSegment Size="70,70" Point="297,227" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="297,227">
+        <ArcSegment Size="43,43" Point="340,183.5" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="340,183.5">
+        <ArcSegment Size="27,27" Point="367,210" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="367,210">
+        <ArcSegment Size="17,17" Point="350,227" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="350,227">
+        <ArcSegment Size="10,10" Point="340,216" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="340,216">
+        <ArcSegment Size="6,6" Point="346,210" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="346,210">
+        <ArcSegment Size="3.7,3.7" Point="349.7,213.7" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="349.7,213.7">
+        <ArcSegment Size="2.3,2.3" Point="347.4,216" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="347.4,216">
+        <ArcSegment Size="1.4,1.4" Point="346,214.6" SweepDirection="Clockwise" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,0">
+        <LineSegment Point="480,297" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="480,0">
+        <LineSegment Point="347,214.8" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,297">
+        <LineSegment Point="347,214.8" />
+      </PathFigure>
+    </PathGeometry>
+  </GeometryGroup>
+</ps:SimpleGeometryShape>
