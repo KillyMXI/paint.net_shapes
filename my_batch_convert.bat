@@ -1,0 +1,2 @@
+@powershell.exe -NoProfile -ExecutionPolicy Bypass -file .\Convert-Shape.ps1 -in .\pages_photo -out .\mxi_shapes_photo -pretty
+@powershell.exe -NoProfile -ExecutionPolicy Bypass -file .\Convert-Shape.ps1 -in .\pages_science -out .\mxi_shapes_science -pretty
