@@ -1,13 +1,9 @@
 <ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="golden_ellipses">
-  <GeometryGroup>
+  <GeometryGroup FillRule="NonZero">
     <EllipseGeometry Center="180,240" RadiusX="180" RadiusY="240" />
     <EllipseGeometry Center="180,331.7" RadiusX="111.2" RadiusY="148.3" />
-    <EllipseGeometry Center="180,331.7" RadiusX="111.2" RadiusY="148.3" />
-    <EllipseGeometry Center="180,388.3" RadiusX="68.7" RadiusY="91.7" />
     <EllipseGeometry Center="180,388.3" RadiusX="68.7" RadiusY="91.7" />
     <EllipseGeometry Center="180,423.3" RadiusX="42.5" RadiusY="56.7" />
-    <EllipseGeometry Center="180,423.3" RadiusX="42.5" RadiusY="56.7" />
-    <EllipseGeometry Center="180,445" RadiusX="26.3" RadiusY="35" />
     <EllipseGeometry Center="180,445" RadiusX="26.3" RadiusY="35" />
   </GeometryGroup>
 </ps:SimpleGeometryShape>

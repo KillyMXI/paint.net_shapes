@@ -1,19 +1,12 @@
 <ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="polar_10_graph">
-  <GeometryGroup>
+  <GeometryGroup FillRule="NonZero">
     <EllipseGeometry Center="240,240" RadiusX="240" RadiusY="240" />
     <EllipseGeometry Center="240,240" RadiusX="210" RadiusY="210" />
-    <EllipseGeometry Center="240,240" RadiusX="210" RadiusY="210" />
-    <EllipseGeometry Center="240,240" RadiusX="180" RadiusY="180" />
     <EllipseGeometry Center="240,240" RadiusX="180" RadiusY="180" />
     <EllipseGeometry Center="240,240" RadiusX="150" RadiusY="150" />
-    <EllipseGeometry Center="240,240" RadiusX="150" RadiusY="150" />
-    <EllipseGeometry Center="240,240" RadiusX="120" RadiusY="120" />
     <EllipseGeometry Center="240,240" RadiusX="120" RadiusY="120" />
     <EllipseGeometry Center="240,240" RadiusX="90" RadiusY="90" />
-    <EllipseGeometry Center="240,240" RadiusX="90" RadiusY="90" />
     <EllipseGeometry Center="240,240" RadiusX="60" RadiusY="60" />
-    <EllipseGeometry Center="240,240" RadiusX="60" RadiusY="60" />
-    <EllipseGeometry Center="240,240" RadiusX="30" RadiusY="30" />
     <EllipseGeometry Center="240,240" RadiusX="30" RadiusY="30" />
     <PathGeometry>
       <PathFigure IsClosed="False" IsFilled="False" StartPoint="240,480">
