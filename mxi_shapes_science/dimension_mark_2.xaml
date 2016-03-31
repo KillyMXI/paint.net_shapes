@@ -1,0 +1,21 @@
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="dimension_mark_2">
+  <GeometryGroup>
+    <RectangleGeometry Rect="0,0,0.1,200" />
+    <RectangleGeometry Rect="550,0,0.1,200" />
+    <RectangleGeometry Rect="0,16,550,0.1" />
+    <PathGeometry>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,16">
+        <LineSegment Point="30,4" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="0,16">
+        <LineSegment Point="30,28" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="550,16">
+        <LineSegment Point="520,4" />
+      </PathFigure>
+      <PathFigure IsClosed="False" IsFilled="False" StartPoint="550,16">
+        <LineSegment Point="520,28" />
+      </PathFigure>
+    </PathGeometry>
+  </GeometryGroup>
+</ps:SimpleGeometryShape>
