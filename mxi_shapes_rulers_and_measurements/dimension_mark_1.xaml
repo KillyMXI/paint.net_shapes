@@ -1,4 +1,4 @@
-<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="dimension_mark">
+<ps:SimpleGeometryShape xmlns="clr-namespace:PaintDotNet.UI.Media;assembly=PaintDotNet.Framework" xmlns:ps="clr-namespace:PaintDotNet.Shapes;assembly=PaintDotNet.Framework" DisplayName="dimension_mark_1">
   <GeometryGroup>
     <RectangleGeometry Rect="0,0,0.1,200" />
     <RectangleGeometry Rect="550,0,0.1,200" />
