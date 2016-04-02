@@ -4,9 +4,9 @@ Collection of custom shapes for raster graphics editor [Paint.NET](http://getpai
 
 If all you need is just a shapes archive, go [grab it there](http://mxii.eu.org/project/paintdotnetstuff). In case I'll do plugins or anything else for Paint.NET in future - it also could be tracked there.
 
-My custom shapes topic on pdn forum - to be published shortly
+[Project page](http://mxii.eu.org/project/paintdotnetstuff/)
 
-My converter topic on pdn forum - to be published shortly
+[My topic on Paint.NET forum](http://forums.getpaint.net/index.php?/topic/107849-mxis-shapes/)
 
 [How to make custom shapes](http://forums.getpaint.net/index.php?/topic/32101-h)
 
