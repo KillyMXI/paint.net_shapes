@@ -35,3 +35,12 @@ Some shapes to mark dimensions on images.
 Some grids. Maybe someone will find some of them usefull too.
 
 For many applications raster graphics editor is NOT the right tool, so this set is kind of experimental.
+
+### mxi_shapes_superellipse
+
+[Superellipse](https://en.wikipedia.org/wiki/Superellipse) shapes.
+
+* 2.5 is a power factor of choice of [Piet Hein](https://en.wikipedia.org/wiki/Piet_Hein_(Denmark)), popularizator of superellipses;
+* superellipse with factor 4 is called [Squircle](https://en.wikipedia.org/wiki/Squircle);
+* factor 5 [is used](https://twitter.com/marcedwards/status/347451374214213633) in iOS icon designs;
+* factor 3 is here just to fill the gap between other values.
