@@ -92,10 +92,12 @@ function Convert-Shapes {
         Convert-SingleFile $inputItem $outputFolderItem
     }
     Write-Output "    Finished."
+    Write-Output ""
 }
 
 function Convert-Folder($inputFolder, $outputFolder) {
     $fileList = Get-ChildItem "$($inputFolder.FullName)\" -Filter *.xaml -File
+    Write-Output "    $(Split-Path $inputFolder -leaf)"
     Write-Output "    $($fileList.Count) files to convert."
     $fileList | %{ Convert-SingleFile $_ $outputFolder }
 }
