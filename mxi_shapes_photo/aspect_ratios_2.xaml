@@ -108,6 +108,12 @@
         <LineSegment Point="0,500" />
         <LineSegment Point="0,0" />
       </PathFigure>
+      <PathFigure IsClosed="True" IsFilled="True" StartPoint="0,0">
+        <LineSegment Point="1000,0" />
+        <LineSegment Point="1000,500" />
+        <LineSegment Point="0,500" />
+        <LineSegment Point="0,0" />
+      </PathFigure>
       <PathFigure IsClosed="False" IsFilled="False" StartPoint="500,0">
         <LineSegment Point="500,500" />
       </PathFigure>
