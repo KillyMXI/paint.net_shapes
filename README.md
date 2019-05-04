@@ -18,7 +18,7 @@ Look into Convert-Shape.ps1 for details on how to use it. There is also a bat fi
 
 ## Custom shapes
 
-Source files, editable with [Kaxaml](http://www.kaxaml.com/) or Visual Studio are located in "pages_" folders.
+Source files, editable with [Kaxaml](https://github.com/thinkpixellab/kaxaml) or [XAML Studio](https://aka.ms/GetXAMLStudio) or Visual Studio are located in "pages_" folders.
 
 Ready to use Paint.NET custom shape files are stored in "mxi_shapes_" folders for convenience.
 
